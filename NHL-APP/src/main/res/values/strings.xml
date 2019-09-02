@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NHL-INFO</string>
+    <string name="filter_by">Filter By</string>
+    <string name="common_close">Close</string>
+    <string name="communication_error">Error in getting data. Please try again later.</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">NHL-INFO</string>
+    <string name="nav_header_subtitle">List of NHL Teams</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_sort_alpha">AB</string>
+    <string name="action_sort_numeric">01</string>
+    <string name="msg_select_team">Please select a team from the navigation drawer</string>
+</resources>
