@@ -1,6 +1,6 @@
 package com.zeeshanz.nhl.mvp;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 import android.util.Log;
 
 import com.zeeshanz.nhl.model.Player;
